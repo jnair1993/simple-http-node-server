@@ -1,0 +1,23 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "Simple Node Server to write to file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnair1993/simple-http-node-server.git"
+  },
+  "author": "Jayesh Nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnair1993/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/jnair1993/simple-http-node-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
